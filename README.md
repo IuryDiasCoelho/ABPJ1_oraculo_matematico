@@ -18,10 +18,8 @@
 Esse projeto tem como finalidade calcular o valor total de 
 energia de uma residencia e informar uma economia ou prejuizo.
 
-## ✨ Funcionalidades
-- [ ] Funcionalidade 1 (ex: Extração automática de dados)
-- [ ] Funcionalidade 2 (ex: Geração de relatórios em PDF)
-- [ ] Funcionalidade 3 (ex: Integração com API do GitHub)
+## ✨ Fluxograma
+![fluxograma.png](fluxograma.png)
 
 ## 🛠 Tecnologias
 As principais ferramentas usadas no projeto:
