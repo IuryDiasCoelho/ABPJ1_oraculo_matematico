@@ -3,7 +3,7 @@ mes_atual=input("Digite quantos kilovats foi consumido (apenas os valores. EX:35
 
 # tratando erro de usar virgula como separador de casas decimais
 mes_atual_limpo = float(mes_atual.replace(',', '.'))
-preco_kw=(input("Digite se voçe souber o preço atual do kilowatt (apenas os valores. EX: 0.89 ): "))
+preco_kw=(input("Digite preço atual do kilowatt (apenas os valores. EX: 0.89 ): "))
 preco_kw_limpo=float(preco_kw.replace(',', '.'))
 
 # calculando o valor total do mes atual
