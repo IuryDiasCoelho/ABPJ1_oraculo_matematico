@@ -24,7 +24,7 @@ máquina:
 ### Instalação
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/usuario/projeto.git](https://github.com/usuario/projeto.git)
+   git clone [https://github.com/IuryDiasCoelho/ABPJ1_oraculo_matematico](https://github.com/IuryDiasCoelho/ABPJ1_oraculo_matematico)
 
 2. Acesse a pasta do projeto:
 
