@@ -30,7 +30,7 @@ mes_anterior_limpo = float(mes_anterior.replace(',', '.'))
 # calculando o valor total do mes anterior
 cauculo_mes_anterior=mes_anterior_limpo*preco_kw_limpo
 
-print(f"O seu valor total foi da sua fatura anterior foi : R${cauculo_mes_atual}")
+print(f"O seu valor total foi da sua fatura anterior foi : R${cauculo_mes_anterior}")
 
 # cauculando porcentagem entre os valores
 percentagem=(cauculo_mes_atual-cauculo_mes_anterior)/cauculo_mes_anterior*100
